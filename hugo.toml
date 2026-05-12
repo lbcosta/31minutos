@@ -1,0 +1,4 @@
+baseURL = 'https://31minutos.me/'
+locale = 'pt-br'
+title = '31 Minutos'
+theme = 'ananke'

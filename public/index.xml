@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>31 Minutos</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 31 Minutos</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 11 May 2026 21:23:50 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Piratas No Brasil</title>
+      <link>http://localhost:1313/posts/piratas-no-brasil/</link>
+      <pubDate>Mon, 11 May 2026 21:23:50 -0300</pubDate>
+      <guid>http://localhost:1313/posts/piratas-no-brasil/</guid>
+      <description>&lt;p&gt;Existiram &lt;strong&gt;piratas&lt;/strong&gt; no Brasil!&lt;/p&gt;&#xA;&lt;p&gt;Um deles foi &lt;a href=&#34;https://pt.wikipedia.org/wiki/Roque_Brasiliano&#34;&gt;Roque Brasiliano&lt;/a&gt;. Um corsário cruel que nasceu na Holanda mas foi criado no Brasil. Era um bebum agressivo que ameaçava balear quem se recusasse a beber com ele. Maltratava seus prisioneiros, especialmente os espanhóis.&lt;/p&gt;&#xA;&lt;p&gt;Foi amigo de piratas franceses e ingleses&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Que tipo de outros piratas passaram por aqui?&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/roque-brasiliano.png&#34; alt=&#34;Roque Brasiliano&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
