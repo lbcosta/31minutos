@@ -11,4 +11,4 @@ Foi amigo de piratas franceses e ingleses...
 
 Que tipo de outros piratas passaram por aqui?
 
-![Roque Brasiliano](/images/roque-brasiliano.png)
+![Roque Brasiliano](roque-brasiliano.png)
